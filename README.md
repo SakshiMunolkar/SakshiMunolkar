@@ -4,7 +4,7 @@
 
 🧐 About Me
 
-👀 Tech Enthusiast | Passionate about Web Development, Open Source, and UI/UX Design
+👀 Tech Enthusiast | Passionate about Web Development, Open Source.
 
 🌱 Currently exploring more about web based tech 
 
